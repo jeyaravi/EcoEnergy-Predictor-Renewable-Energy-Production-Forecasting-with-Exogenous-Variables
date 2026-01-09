@@ -1,0 +1,11 @@
+📊 Model Performance
+---------------------
+MAE  : 19.65
+RMSE : 24.21
+R²   : 0.95
+
+
+
+🔮 Sample Prediction
+---------------------
+Predicted Energy Generated: 420.3
